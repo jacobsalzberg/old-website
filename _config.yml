@@ -25,39 +25,40 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 6c5a42 #80B3FF
+  primary: 312342 #80B3FF
   # INICIAL: 18bc9c
+  # HIGHLIGHT COLOR!!!!!!
   primary-rgb: "128,179,255" #"128,179,255"
-  secondary: 9c7c5b #FD6E8A
-  secondary-dark: cc6721 #A2122F
+  #header
+  secondary: 18233a #FD6E8A
+  #FOOTER (copyright)
+  secondary-dark: 18233a #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: J. J. Salzberg
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: SOCIALS
+  credits: RESUME
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
+  - title: steam
+    url: https://steamcommunity.com/id/jacobjames/
+  - title: discord
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
+    url: http://github.com/jekyll
+  - title: linkedin
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Sao Paulo
+  - line: Brazil
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Download my Resume: <a href="http://startbootstrap.com">Link</a>.'
 
 # Build settings
 markdown: kramdown
