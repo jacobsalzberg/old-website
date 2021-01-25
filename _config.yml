@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 312342 #80B3FF
+  primary: 8f7dd1 #80B3FF
   # INICIAL: 18bc9c
   # HIGHLIGHT COLOR!!!!!!
   primary-rgb: "128,179,255" #"128,179,255"
@@ -38,7 +38,7 @@ color:
 footer:
   copyright: J. J. Salzberg
   location: Location
-  social: SOCIALS
+  social: GET IN TOUCH
   credits: RESUME
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -46,7 +46,9 @@ social:
   - title: steam
     url: https://steamcommunity.com/id/jacobjames/
   - title: discord
-    url:
+    url: https://steamcommunity.com/id/jacobjames/
+  - title: skype
+    url: https://steamcommunity.com/id/jacobjames/
   - title: github
     url: http://github.com/jekyll
   - title: linkedin
