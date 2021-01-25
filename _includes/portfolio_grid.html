@@ -14,7 +14,8 @@
                 {% capture category_name %}{{ category | first }}{% endcapture %}
                 <div id="#{{ category_name | slugize }}"></div>
                 <p></p>
-                <center><h2 class="category-head">{{ category_name }}</h2></center>
+                <center><h3 class="category-head">{{ category_name }}</h3></center>
+                <p></p>
                 <a name="{{ category_name | slugize }}"></a>
                 <div class="portfolio-flex-row">
                 {% for post in site.categories[category_name] %}

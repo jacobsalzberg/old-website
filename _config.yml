@@ -45,14 +45,12 @@ footer:
 social:
   - title: steam
     url: https://steamcommunity.com/id/jacobjames/
-  - title: discord
-    url: https://steamcommunity.com/id/jacobjames/
   - title: skype
-    url: https://steamcommunity.com/id/jacobjames/
+    url: jacob1818@hotmail.com
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/jacobsalzberg
   - title: linkedin
-    url: http://github.com/jekyll
+    url: www.linkedin.com/in/jacobsalzberg
 
 # Postal address (add as many lines as necessary)
 address:
