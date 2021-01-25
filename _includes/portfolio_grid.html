@@ -7,6 +7,8 @@
                     <h2>Personal Portfolio2</h2>
                     <hr class="star-primary">
                 </div>
+
+
             </div>
             <div id="archives">
             {% for category in site.categories %}
@@ -17,6 +19,7 @@
 
                 <h3 class="category-head">{{ category_name }}</h3>
                 <a name="{{ category_name | slugize }}"></a>
+                <div class="portfolio-flex-row">
                 {% for post in site.categories[category_name] %}
                 <div class="portfolio-flex-item portfolio-item">
                     <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
