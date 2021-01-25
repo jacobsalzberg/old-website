@@ -4,7 +4,7 @@ email: jacob1818@gmail.com
 url: https://jacobsalzberg.github.io/
 description: "JACOB SALZBERG - PORTFOLIO"
 keywords: "jacob, salzberg, jacob+salzberg, portfolio+salzberg, salzberg+game, salzberg+designer, jacob+salzberg+designer, jacob salzberg designer"
-skills: "Lead Game Designer | Unity Developer | Gamification "
+skills: "Lead Game Designer | Unity Developer "
 meta_author: Salzberg Jacob
 
 # Google webmaster tools
@@ -46,11 +46,11 @@ social:
   - title: steam
     url: https://steamcommunity.com/id/jacobjames/
   - title: skype
-    url: jacob1818@hotmail.com
+    url: skype:jacob1818@hotmail.com
   - title: github
     url: https://github.com/jacobsalzberg
   - title: linkedin
-    url: www.linkedin.com/in/jacobsalzberg
+    url: https://www.linkedin.com/in/jacobsalzberg
 
 # Postal address (add as many lines as necessary)
 address:
